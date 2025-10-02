@@ -1,0 +1,102 @@
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.deps.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.AssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\refint\Asistencia.Repository.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Repository\obj\Debug\net8.0\ref\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.deps.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.AssemblyReference.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfoInputs.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.CoreCompileInputs.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.sourcelink.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistenc.486F7F15.Up2Date
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\refint\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\ref\Asistencia.Repository.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.deps.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.AssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.sourcelink.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistenc.486F7F15.Up2Date
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\refint\Asistencia.Repository.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\ref\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.deps.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.AssemblyReference.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfoInputs.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.CoreCompileInputs.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.sourcelink.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistenc.486F7F15.Up2Date
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\refint\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\ref\Asistencia.Repository.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.deps.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.AssemblyReference.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfoInputs.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfo.cs
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.CoreCompileInputs.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.sourcelink.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistenc.486F7F15.Up2Date
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\refint\Asistencia.Repository.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Repository\obj\Debug\net8.0\ref\Asistencia.Repository.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.deps.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Repository.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.AssemblyReference.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfoInputs.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.AssemblyInfo.cs
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.csproj.CoreCompileInputs.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.sourcelink.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistenc.486F7F15.Up2Date
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\refint\Asistencia.Repository.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\Asistencia.Repository.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Repository\obj\Debug\net8.0\ref\Asistencia.Repository.dll

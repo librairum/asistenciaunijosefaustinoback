@@ -1,0 +1,95 @@
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.deps.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.AssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistenc.1E8235A9.Up2Date
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\refint\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.Abstractions\obj\Debug\net8.0\ref\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.deps.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.AssemblyReference.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfoInputs.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.CoreCompileInputs.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.sourcelink.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistenc.1E8235A9.Up2Date
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\refint\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\ref\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.deps.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.AssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.sourcelink.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistenc.1E8235A9.Up2Date
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\refint\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\ref\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.deps.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.AssemblyReference.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfoInputs.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.CoreCompileInputs.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.sourcelink.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistenc.1E8235A9.Up2Date
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\refint\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\ref\Asistencia.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.deps.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.AssemblyReference.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfoInputs.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfo.cs
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.CoreCompileInputs.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.sourcelink.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistenc.1E8235A9.Up2Date
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\refint\Asistencia.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Abstractions\obj\Debug\net8.0\ref\Asistencia.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.deps.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.AssemblyReference.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfoInputs.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.AssemblyInfo.cs
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.csproj.CoreCompileInputs.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.sourcelink.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistenc.1E8235A9.Up2Date
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\refint\Asistencia.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.Abstractions\obj\Debug\net8.0\ref\Asistencia.Abstractions.dll

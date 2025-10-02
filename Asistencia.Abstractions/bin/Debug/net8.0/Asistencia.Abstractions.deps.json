@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Asistencia.Abstractions/1.0.0": {
+        "dependencies": {
+          "Asistencia.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Asistencia.Abstractions.dll": {}
+        }
+      },
+      "Asistencia.DTO/1.0.0": {
+        "runtime": {
+          "Asistencia.DTO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asistencia.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asistencia.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

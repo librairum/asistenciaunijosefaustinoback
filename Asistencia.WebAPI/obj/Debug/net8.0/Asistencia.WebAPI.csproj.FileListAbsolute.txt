@@ -1,0 +1,457 @@
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.exe
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.deps.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.runtimeconfig.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Asistencia.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Asistencia.WebAPI.props
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asistencia.WebAPI.props
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asistencia.WebAPI.props
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Asistencia.WebAPI.styles.css
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\refint\Asistencia.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.genruntimeconfig.cache
+C:\Users\ivan\Documents\Visual Studio 2022\AspNetCore\sln_AsistenciaBackend\Asistencia.WebAPI\obj\Debug\net8.0\ref\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.AssemblyReference.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfoInputs.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.CoreCompileInputs.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.sourcelink.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\refint\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.exe
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.deps.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.runtimeconfig.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.AssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.sourcelink.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Asistencia.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Asistencia.WebAPI.props
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asistencia.WebAPI.props
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asistencia.WebAPI.props
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Asistencia.WebAPI.styles.css
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistenc.B6678949.Up2Date
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\refint\Asistencia.WebAPI.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.genruntimeconfig.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\ref\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.exe
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.deps.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.runtimeconfig.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Dapper.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.dll
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.pdb
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Asistencia.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Asistencia.WebAPI.props
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asistencia.WebAPI.props
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asistencia.WebAPI.props
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Asistencia.WebAPI.styles.css
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistenc.B6678949.Up2Date
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.genruntimeconfig.cache
+D:\SISTEMA_KAMATERA\Backend\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\ref\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.exe
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.deps.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.runtimeconfig.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Dapper.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.AssemblyReference.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfoInputs.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.CoreCompileInputs.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.sourcelink.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Asistencia.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Asistencia.WebAPI.props
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asistencia.WebAPI.props
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asistencia.WebAPI.props
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Asistencia.WebAPI.styles.css
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistenc.B6678949.Up2Date
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\refint\Asistencia.WebAPI.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.genruntimeconfig.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\ref\Asistencia.WebAPI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.staticwebassets.endpoints.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.exe
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.deps.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.runtimeconfig.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Dapper.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.AssemblyReference.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfoInputs.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfo.cs
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.CoreCompileInputs.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.sourcelink.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Asistencia.WebAPI.styles.css
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Asistencia.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Asistencia.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Asistencia.WebAPI.props
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asistencia.WebAPI.props
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asistencia.WebAPI.props
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistenc.B6678949.Up2Date
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\refint\Asistencia.WebAPI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.genruntimeconfig.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\obj\Debug\net8.0\ref\Asistencia.WebAPI.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\appsettings.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.staticwebassets.endpoints.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.exe
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.deps.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.runtimeconfig.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.WebAPI.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Dapper.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Application.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.DTO.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Repository.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\bin\Debug\net8.0\Asistencia.Services.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.AssemblyReference.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfoInputs.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.AssemblyInfo.cs
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.csproj.CoreCompileInputs.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.sourcelink.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\scopedcss\bundle\Asistencia.WebAPI.styles.css
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Asistencia.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Asistencia.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Asistencia.WebAPI.props
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Asistencia.WebAPI.props
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Asistencia.WebAPI.props
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistenc.B6678949.Up2Date
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\refint\Asistencia.WebAPI.dll
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.pdb
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\Asistencia.WebAPI.genruntimeconfig.cache
+D:\trabajo\pjallao\asistenciapjcallaoback\Asistencia.WebAPI\obj\Debug\net8.0\ref\Asistencia.WebAPI.dll

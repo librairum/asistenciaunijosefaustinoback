@@ -1,0 +1,476 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.WebAPI\\Asistencia.WebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj",
+        "projectName": "Asistencia.Abstractions",
+        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
+        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Application\\Asistencia.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Application\\Asistencia.Application.csproj",
+        "projectName": "Asistencia.Application",
+        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Application\\Asistencia.Application.csproj",
+        "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
+        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj",
+        "projectName": "Asistencia.DTO",
+        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj",
+        "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
+        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj",
+        "projectName": "Asistencia.Repository",
+        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj",
+        "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
+        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\Asistencia.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\Asistencia.Services.csproj",
+        "projectName": "Asistencia.Services",
+        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\Asistencia.Services.csproj",
+        "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
+        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj"
+              },
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.WebAPI\\Asistencia.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.WebAPI\\Asistencia.WebAPI.csproj",
+        "projectName": "Asistencia.WebAPI",
+        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.WebAPI\\Asistencia.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
+        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj"
+              },
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Application\\Asistencia.Application.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Application\\Asistencia.Application.csproj"
+              },
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj"
+              },
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj"
+              },
+              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\Asistencia.Services.csproj": {
+                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\Asistencia.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

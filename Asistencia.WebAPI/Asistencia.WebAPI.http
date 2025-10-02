@@ -1,0 +1,6 @@
+@Asistencia.WebAPI_HostAddress = http://localhost:5080
+
+GET {{Asistencia.WebAPI_HostAddress}}/usuario/
+Accept: application/json
+
+###

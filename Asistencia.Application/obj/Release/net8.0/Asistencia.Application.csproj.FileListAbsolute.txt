@@ -1,0 +1,54 @@
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.deps.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Abstractions.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.DTO.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Abstractions.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.DTO.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.csproj.AssemblyReference.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.AssemblyInfoInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.AssemblyInfo.cs
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.sourcelink.json
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistenc.B0382F3A.Up2Date
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\refint\Asistencia.Application.dll
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.pdb
+C:\Users\ivan\Documents\Visual Studio 2022\Webapi\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\ref\Asistencia.Application.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.deps.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Abstractions.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.DTO.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Abstractions.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.DTO.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.csproj.AssemblyReference.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.AssemblyInfoInputs.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.AssemblyInfo.cs
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.csproj.CoreCompileInputs.cache
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.sourcelink.json
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistenc.B0382F3A.Up2Date
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\refint\Asistencia.Application.dll
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.pdb
+D:\trabajo\Nivargo\asistencia kamatera\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\ref\Asistencia.Application.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.deps.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Application.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Abstractions.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.DTO.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.Abstractions.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\bin\Release\net8.0\Asistencia.DTO.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.csproj.AssemblyReference.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.AssemblyInfoInputs.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.AssemblyInfo.cs
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.csproj.CoreCompileInputs.cache
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.sourcelink.json
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistenc.B0382F3A.Up2Date
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\refint\Asistencia.Application.dll
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\Asistencia.Application.pdb
+D:\SISTEMA_KAMATERA\Backend\github\Asistenciabackend\Asistencia.Application\obj\Release\net8.0\ref\Asistencia.Application.dll

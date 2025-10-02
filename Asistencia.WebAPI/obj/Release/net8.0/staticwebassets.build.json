@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9uPJCZLQpHPBTncgoEYIKq/XXpW5D4bzDqnp/32LxmI=",
+  "Source": "Asistencia.WebAPI",
+  "BasePath": "_content/Asistencia.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
