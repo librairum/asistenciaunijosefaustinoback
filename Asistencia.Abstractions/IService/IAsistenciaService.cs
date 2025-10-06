@@ -18,5 +18,8 @@ namespace Asistencia.Abstractions.IService
 
         public Task<ResultDTO<AsistenciaGeneralResponse>> TraeAsistenciaGeneral(string fechainicio, 
             string fechafin, string marcadores);
+
+
+        public Task<ResultDTO<DepartamentoResponse>> TraeDepartamento(string empresa);
     }
 }

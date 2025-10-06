@@ -75,6 +75,18 @@ namespace Asistencia.WebAPI.Controllers
                 return BadRequest(ex.Message);
             }
         }
-    
+
+        [HttpGet]
+        [Route("SpListaDepartamento")]
+        public async Task<ActionResult> SpTraeDepartamento(string empresa)
+        {
+            try {
+                var result = await this._asistenciApplicacion.TraeDepartamento(empresa);
+                return Ok(result);
+            }catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
     }
 }

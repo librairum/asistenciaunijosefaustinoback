@@ -99,11 +99,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\Asistencia.Services.csproj",
+      "projectUniqueName": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Asistencia.Services.csproj",
       "projectName": "Asistencia.Services",
-      "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\Asistencia.Services.csproj",
+      "projectPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\Asistencia.Services.csproj",
       "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
-      "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Services\\obj\\",
+      "outputPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -124,11 +124,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
-              "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj"
+            "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
+              "projectPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj"
             },
-            "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
-              "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj"
+            "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
+              "projectPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia.DTO.csproj"
             }
           }
         }

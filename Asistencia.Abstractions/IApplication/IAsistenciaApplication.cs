@@ -17,5 +17,6 @@ namespace Asistencia.Abstractions.IApplication
         public Task<ResultDTO<PlanillaResponse>> TraePlanilla();
         public Task<ResultDTO<AsistenciaGeneralResponse>> TraeAsistenciaGeneral(string fechainicio, 
             string fechafin, string marcadores);
+        public Task<ResultDTO<DepartamentoResponse>> TraeDepartamento(string empresa);
     }
 }

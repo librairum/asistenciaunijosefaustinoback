@@ -126,6 +126,27 @@ namespace Asistencia.Repository.Asistencia
             return res;
         }
 
-        
+        public async  Task<ResultDTO<DepartamentoResponse>> TraeDepartamento(string empresa)
+        {
+            ResultDTO<DepartamentoResponse> res = new ResultDTO<DepartamentoResponse>();
+            List<DepartamentoResponse> lista = new List<DepartamentoResponse>();
+            try 
+            {
+                SqlConnection cn = new SqlConnection(this._connectionString);
+                DynamicParameters parametros = new DynamicParameters();
+                parametros.Add("@empresa", empresa);
+                lista = (List<DepartamentoResponse>)await cn.QueryAsync<DepartamentoResponse>("Spu_Int_Trae_Departamento", parametros, commandType: CommandType.StoredProcedure);
+                res.IsSuccess = lista.Count > 0 ? true : false;
+                res.Message = lista.Count > 0 ? "informacion encontrada" : "No se encontro informacion";
+                res.Data = lista.ToList();
+
+            }catch( Exception ex)
+            {
+                res.IsSuccess = false;
+
+                res.MessageException = ex.Message;
+            }
+            return res;
+        }
     }
 }

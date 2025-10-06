@@ -39,5 +39,10 @@ namespace Asistencia.Services.Asistencia
         {
             return await this._asistenciaRepositorio.TraeResumen(fechaInicio, fechaFin, codigoPlanilla);
         }
+
+        public async Task<ResultDTO<DepartamentoResponse>> TraeDepartamento(string empresa)
+        {
+            return await this._asistenciaRepositorio.TraeDepartamento(empresa);
+        }
     }
 }

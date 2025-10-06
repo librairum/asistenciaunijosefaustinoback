@@ -218,6 +218,27 @@
         }
       }
     },
+    "/Asistencia/SpListaDepartamento": {
+      "get": {
+        "tags": [
+          "Asistencia"
+        ],
+        "parameters": [
+          {
+            "name": "empresa",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Autenticacion/SpList": {
       "post": {
         "tags": [

@@ -59,6 +59,22 @@
   },
   {
     "ContainingType": "Asistencia.WebAPI.Controllers.AsistenciaController",
+    "Method": "SpTraeDepartamento",
+    "RelativePath": "Asistencia/SpListaDepartamento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Asistencia.WebAPI.Controllers.AsistenciaController",
     "Method": "SpTraeAsistenciaGeneral",
     "RelativePath": "Asistencia/SpListAsistenciGeneral",
     "HttpMethod": "GET",

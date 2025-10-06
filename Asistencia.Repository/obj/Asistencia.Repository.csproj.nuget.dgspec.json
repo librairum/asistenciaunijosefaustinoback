@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj": {}
+    "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia.Repository.csproj": {}
   },
   "projects": {
-    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
+    "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj",
+        "projectUniqueName": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj",
         "projectName": "Asistencia.Abstractions",
-        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj",
+        "projectPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj",
         "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
-        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\obj\\",
+        "outputPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
-                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj"
+              "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
+                "projectPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia.DTO.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
+    "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj",
+        "projectUniqueName": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia.DTO.csproj",
         "projectName": "Asistencia.DTO",
-        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\Asistencia.DTO.csproj",
+        "projectPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\Asistencia.DTO.csproj",
         "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
-        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.DTO\\obj\\",
+        "outputPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj": {
+    "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj",
+        "projectUniqueName": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia.Repository.csproj",
         "projectName": "Asistencia.Repository",
-        "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\Asistencia.Repository.csproj",
+        "projectPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\Asistencia.Repository.csproj",
         "packagesPath": "C:\\Users\\sistemas\\.nuget\\packages\\",
-        "outputPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Repository\\obj\\",
+        "outputPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,8 +166,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
-                "projectPath": "D:\\trabajo\\pjallao\\asistenciapjcallaoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj"
+              "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj": {
+                "projectPath": "D:\\trabajo\\univjosefaustino\\asistenciaunijosefaustinoback\\Asistencia.Abstractions\\Asistencia.Abstractions.csproj"
               }
             }
           }
